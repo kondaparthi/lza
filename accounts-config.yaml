@@ -3,7 +3,7 @@ mandatoryAccounts:
     description: >-
       The management (primary) account. Do not change the name field for this
       mandatory account. Note, the account name key does not need to match the
-      AWS account name.   
+      AWS account name. version 1
     organizationalUnit: Root
     warm: false
   - name: LogArchive
